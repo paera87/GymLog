@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="exerciseactivity.ExerciseTabbedActivity">
+
+    <item android:id="@+id/action_save_workout"
+        android:title="@string/save_workout"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_save"/>
+
+
+
+</menu>
